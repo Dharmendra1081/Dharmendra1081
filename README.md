@@ -16,5 +16,6 @@ Technology Stack:
 Programming Language: Python, Java, Java Script
 Tools: WordPress, Bootstrap, Figma, Canva
 DBMS: MySQL, SQL Server
-Let's connect:
 <hr>
+Let's connect:
+Linked In :- 
