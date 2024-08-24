@@ -1,4 +1,4 @@
-Hi there! This is Dharmendra Jha
+<h1>Hi there! This is Dharmendra Jha</h1>
 <hr>
 
 You are welcome to my GitHub profile.
