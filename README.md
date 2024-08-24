@@ -1,7 +1,7 @@
 <h1>Hi there! This is Dharmendra Jha</h1>
 <hr>
 
-<h6>You are welcome to my GitHub profile.</h6>
+<h3>You are welcome to my GitHub profile.</h3>
 
 
 
