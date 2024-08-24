@@ -14,8 +14,13 @@ SKILLS & COMPETENCIES
 Technology Stack:
 
 Programming Language: Python, Java, Java Script
+
+
 Tools: WordPress, Bootstrap, Figma, Canva
+
+
 DBMS: MySQL, SQL Server
+
 <hr>
 Let's connect:
 Linked In :- 
