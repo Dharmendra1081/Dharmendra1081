@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Dharmendra1081
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! This is Dharmendra Jha
+You are welcome to my GitHub profile.
 
-<!---
-Dharmendra1081/Dharmendra1081 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A skilled web developer with a strong foundation in front-end technologies and languages, particularly proficient in HTML, CSS, and JavaScript. With a good command of Java, the developer brings a versatile approach to web development. Experienced in utilizing Bootstrap for responsive design and proficient in design tools like Canva for creating visually appealing web content. Adept at creating user-friendly, efficient, and visually engaging websites and web applications
+
+SKILLS & COMPETENCIES
+• Html • Css • Java Script • java • bootstrap • Figma • Responsive Web Design   • OOPs • Data Structures & Algorithms (DSA) 
+
+Technology Stack:
+Programming Language: Python, Java, Java Script
+Tools: WordPress, Bootstrap, Figma, Canva
+DBMS: MySQL, SQL Server
+Let's connect:
