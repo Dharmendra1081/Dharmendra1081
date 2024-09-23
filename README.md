@@ -23,4 +23,4 @@ Programming Language: Python, Java, Java Script
 
 <hr>
 Let's connect:
-Linked In :- https://www.linkedin.com/in/dharmendrajha-web-developer    Email:- <a href="mailto:dharmendrajha8667@gmail.com">dharmendrajha8667@gmail.com </a>
+Linked In :- https://www.linkedin.com/in/dharmendrajha-data-analyst    Email:- <a href="mailto:dharmendrajha8667@gmail.com">dharmendrajha8667@gmail.com </a>
